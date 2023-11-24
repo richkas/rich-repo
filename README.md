@@ -1,2 +1,2 @@
-# rich-repo
-Some descriptions go here
+# This is my heading 
+Some description..
